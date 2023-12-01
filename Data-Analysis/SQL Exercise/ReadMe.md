@@ -1,0 +1,3 @@
+Here are the 50 most frequently asked SQL query interview questions and exercises for practice. Start with the readymade SQL script provided to create the test data. It includes a sample Worker table, a Bonus, and a Title table with pre-filled data. Just run the SQL script, and you are all set to get started with the 50 SQL queries.
+
+These SQL queries are written and Run on  Postgresql database, some queries may require little modification to run on other databases.
